@@ -1,1 +1,23 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> References </title>
+  </head>
+  <body>
+    <a href="./index.html"> Welcome/About </a>
+    <a href="./research.html"> Research Projects </a>
+    <a href="./references_for_HTML.html"> HTML References </a>
+    
+    <h1> References for HTML </h1>
+    <p> We did not know HTML at all (or how to set up a GITHUB webpage) until we utilized the following resources: </p>
+    <ul>
+      <li> Codeacademy's Introduction to HTML Course </li>
+      <li> https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github </li>
+      <li> https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5 </li>
+    </ul>
+    
+    
+    
+  </body>
+  
+</html>
